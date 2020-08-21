@@ -1,0 +1,124 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph, li.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span._-Full-Name {
+	color:#414042;
+	font-family:Calibri, sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-weight:normal;
+}
+span._-Credentials {
+	color:#0092d7;
+	font-family:Calibri, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span._-Body-Text {
+	color:#939598;
+	font-family:Calibri, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span._-Sub-Headings--Bold- {
+	color:#636466;
+	font-family:Calibri, sans-serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span._-Position--Italic- {
+	color:#636466;
+	font-family:Calibri, sans-serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span._-Headers {
+	color:#0092d7;
+	font-family:Calibri, sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-weight:normal;
+}
+p.ParaOverride-1 {
+	text-align:right;
+}
+li.ParaOverride-2 {
+	list-style-position:outside;
+	list-style-type:disc;
+	margin-left:18px;
+	text-indent:0px;
+}
+span.CharOverride-1 {
+	color:#636466;
+	font-family:Calibri, sans-serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	color:#636466;
+	font-family:Calibri, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	color:#939598;
+	font-family:Calibri, sans-serif;
+	font-style:italic;
+	font-weight:normal;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:17px;
+	position:relative;
+	width:554px;
+}
+#_idContainer001, #_idContainer002 {
+	display:inline-block;
+	height:17px;
+	width:554px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-color:#0092d7;
+	border-style:dashed;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
